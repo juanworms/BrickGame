@@ -1,4 +1,4 @@
----List of required Lua files
+---List of required Lua files or not  
 Object = require "class"
 require "pixel_brick_class2"
 bool = true
